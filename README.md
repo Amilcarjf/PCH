@@ -1,2 +1,2 @@
 # PCH
-Este es un repositorio de prueba del Módulo 2 del PrepCurse de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local.
